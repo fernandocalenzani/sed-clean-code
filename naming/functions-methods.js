@@ -1,0 +1,7 @@
+function saveUser() {
+  //...
+}
+
+function isValidUser() {
+  //...
+}
